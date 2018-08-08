@@ -1,7 +1,7 @@
 # FREE-shadowsocks-VPN
 免费shadowsocks账号信息（会定期更改密码）：
 
-ssr://MjA2LjE4OS4xNzAuODM6MjUzODM6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46ZURoMmFEYzMvP29iZnNwYXJhbT0
+![detail](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/detail.jpg)
 
 图文详细使用教程：（以下教程链接查看需要先注册账号且验证邮箱，邮箱收不到验证码请查看垃圾邮件或更换其他邮箱）
 - 1，windows端教程：http://ssrss.ml/user/article?id=13
@@ -22,6 +22,9 @@ ssr://MjA2LjE4OS4xNzAuODM6MjUzODM6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46ZURoMmFEYz
 > **[http://ssrss.ga](http://ssrss.ga)**
 
 >（为了防止恶意注册，注册务必填写真实邮箱并接收激活链接，若搜不到邮件请查看邮件垃圾箱或换邮箱，如QQ邮箱等，或者直接QQ联系我给你开通。）
+
+>晚高峰两个香港动态节点测速截图（本地网络100M已跑满）：
+![](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/speedtest.jpg)
 
 - **10块一个月**有香港台湾日本韩国美国俄国等等20+优质节点，有众多动态IP节点可抗封锁，**还有国内节点可用于国外翻回国**。
 - 多个CN2线路，游戏加速线路，还带国内中转降低丢包率。晚高峰视频保证1080P~4K无压力~
