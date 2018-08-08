@@ -1,6 +1,10 @@
 # FREE-shadowsocks-VPN
-免费shadowsocks账号信息（会定期更改密码）：
 
+[免费账号点此](#1)
+[付费账号点此](#2)
+
+<h2 id="1">免费账号</h2>
+免费shadowsocks账号信息（会定期更改密码）：
 ![detail](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/detail.jpg)
 
 图文详细使用教程：（以下教程链接查看需要先注册账号且验证邮箱，邮箱收不到验证码请查看垃圾邮件或更换其他邮箱）
@@ -17,6 +21,7 @@
 - 7，其他客户端教程请上google搜索“xxx shadowsocks 使用教程”
 - **如果不懂可以加我我教你~QQ：`872324793`**
 
+<h2 id="2">付费账号</h2>
 
 ## 如需速度更快更稳定的账号，可以点此注册购买10元/月的付费SS/SSR账号：
 > **[http://ssrss.ga](http://ssrss.ga)**
