@@ -8,7 +8,7 @@
 <h2 id="1">免费账号</h2>
 免费shadowsocks账号信息（会定期更改密码）：
 
-ssr://MjEzLjE4My40OS4xOTE6MjUzODM6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46YUhSMGNEb3ZMM056Y25OekxtZHgvP29iZnNwYXJhbT0
+ssr://MjEzLjE4My40OS4xOTE6MjUzODM6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46YUhSMGNEb3ZMM056Y25OekxtZGgvP29iZnNwYXJhbT0
 
 <h2 id="2">全平台教程</h2>
 图文详细使用教程：（以下教程链接查看需要先注册账号且验证邮箱，邮箱收不到验证码请查看垃圾邮件或更换其他邮箱）
