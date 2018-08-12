@@ -40,15 +40,20 @@ ssr://MjEzLjE4My40OS4xOTE6MjUzODM6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46YUhSMGNEb3
 - 所有服务器均为自建，且个人维护运营成本较低，基本不盈利（营收都会投入于服务器采购和升级上）；
 - 本人学生党热心，小圈子生意，网站低调追求稳定，有问题随时可以联系我（QQ： `872324793`，建议先加QQ备用），不会用可以加我我手把手教你，对服务或线路质量有建议欢迎直接跟我说~
 - 支持月付，支持免费试用，不满意还可按比例退款。
-## (请收藏此页面以防失联)
+## (购买后请收藏此页面以防失联)
 
 <h2 id="4">测速测速截图</h2>
 
-![晚高峰测试结果，众多节点能轻松跑满百兆 10M+/s (本地带宽100M)](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/speedtest.png)
+![](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/speedtest.png)
 
+- 晚高峰测试结果，众多节点能轻松跑满百兆 10M+/s (本地带宽100M)
 
 ![](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/y2btest.png)
-油管8K测试
+
+- 油管8K测试
+
 ![](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/latency.png)
-SSTAP做延迟测试
-**注意，由于不同网络环境下测试结果不同，以上结果仅供参考，本地网络的具体结果请自行测试。**
+
+- SSTAP做延迟测试
+
+## 注意，由于不同网络环境下测试结果不同，以上结果仅供参考，本地网络的具体结果请自行测试。
