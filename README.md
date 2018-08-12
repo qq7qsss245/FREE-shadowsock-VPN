@@ -3,6 +3,7 @@
 [免费账号点此](#1)
 [全平台教程点此](#2)
 [付费账号点此](#3)
+[账号测速截图](#4)
 
 <h2 id="1">免费账号</h2>
 免费shadowsocks账号信息（会定期更改密码）：
@@ -31,8 +32,6 @@ ssr://MjEzLjE4My40OS4xOTE6MjUzODM6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46YUhSMGNEb3
 
 >（注册可免费试用两天。为了防止恶意注册，注册务必填写真实邮箱并接收激活链接，若搜不到邮件请查看邮件垃圾箱或换邮箱，如QQ邮箱等，或者直接QQ联系我给你开通。）
 
->晚高峰两个香港动态节点测速截图（本地网络100M已跑满）：
-![](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/speedtest.jpg)
 ### 仅需10元一个月：
 - ☆20+线路--|香港CN2、HKBN、HKT|台湾|韩国KT|台湾|新加坡|日本|美国|俄罗斯伯力|……众多动态IP可抗封锁，**还有国内节点可用于国外翻回国**。
 - 多个CN2线路，游戏加速线路，还带国内中转降低丢包率。还有多条1G独享动态IP的香港HKT家宽商宽，晚高峰视频保证1080P--4K无压力~
@@ -42,3 +41,12 @@ ssr://MjEzLjE4My40OS4xOTE6MjUzODM6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46YUhSMGNEb3
 - 本人学生党热心，小圈子生意，网站低调追求稳定，有问题随时可以联系我（QQ： `872324793`，建议先加QQ备用），不会用可以加我我手把手教你，对服务或线路质量有建议欢迎直接跟我说~
 - 支持月付，支持免费试用，不满意还可按比例退款。
 ## (请收藏此页面以防失联)
+
+<h2 id="4">测速测速截图</h2>
+> ![](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/speedtest.png)
+> 晚高峰测试结果，大多节点都能轻松跑满百兆 10M+/s (本地带宽100M)
+> ![](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/y2btest.png)
+> 油管8K测试
+> ![](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/latency.png)
+> SSTAP做延迟测试
+> **注意，由于不同网络环境下测试结果不同，以上结果仅供参考，本地网络的具体结果请自行测试。**
