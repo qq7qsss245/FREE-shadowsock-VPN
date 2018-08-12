@@ -33,7 +33,7 @@ ssr://MjEzLjE4My40OS4xOTE6MjUzODM6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46YUhSMGNEb3
 ![](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/speedtest.jpg)
 
 - **10块一个月**有香港台湾日本韩国美国俄国等等20+优质节点，有众多动态IP节点可抗封锁，**还有国内节点可用于国外翻回国**。
-- 多个CN2线路，游戏加速线路，还带国内中转降低丢包率。晚高峰视频保证1080P--4K无压力~
+- 多个CN2线路，游戏加速线路，还带国内中转降低丢包率。还有多条1G独享动态IP的香港HKT家宽商宽，晚高峰视频保证1080P--4K无压力~
 - 众多原生IP还可以看Netflix、TVB、上DMM等等，如果还有其他线路需求也可以向我提哦~
 - 技术成熟，长期稳定提供，从起初的服务器合租到现在已经一年多，大会敏感时期依然保持稳定；
 - 所有服务器均为自建，且个人维护运营成本较低，基本不盈利（营收都会投入于服务器采购和升级上）；
