@@ -25,7 +25,7 @@ ssr://MjEzLjE4My40OS4xOTE6MjUzODM6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46YUhSMGNEb3
 <h2 id="2">付费账号</h2>
 
 ## 如需速度更快更稳定的账号，可以点此注册购买10元/月的付费SS/SSR账号：
-> **[http://ssrss.ga](http://ssrss.ga)**
+> **[http://ssrss.space](http://ssrss.space)**
 
 >（注册可免费试用两天。为了防止恶意注册，注册务必填写真实邮箱并接收激活链接，若搜不到邮件请查看邮件垃圾箱或换邮箱，如QQ邮箱等，或者直接QQ联系我给你开通。）
 
