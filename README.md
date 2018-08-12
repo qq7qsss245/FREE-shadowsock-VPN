@@ -44,8 +44,9 @@ ssr://MjEzLjE4My40OS4xOTE6MjUzODM6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46YUhSMGNEb3
 
 <h2 id="4">测速测速截图</h2>
 
-![image](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/speedtest.png)
-晚高峰测试结果，大多节点都能轻松跑满百兆 10M+/s (本地带宽100M)
+![晚高峰测试结果，众多节点能轻松跑满百兆 10M+/s (本地带宽100M)](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/speedtest.png)
+
+
 ![](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/y2btest.png)
 油管8K测试
 ![](https://github.com/junwen0301/FREE-shadowsocks-VPN/blob/master/latency.png)
