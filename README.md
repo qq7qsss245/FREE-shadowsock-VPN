@@ -28,7 +28,7 @@
 <h2 id="3">付费账号</h2>
 
 ## 如需速度更快更稳定的账号，可以点此注册购买10元/月的付费SS/SSR账号：
-> **[https://ssrss.space](https://ssrss.space)**
+> ## **[https://ssrss.space](https://ssrss.space)**
 
 >（注册可免费试用两天。为了防止恶意注册，注册务必填写真实邮箱并接收激活链接，若搜不到邮件请查看邮件垃圾箱或换邮箱，如QQ邮箱等，或者直接QQ联系我给你开通。）（备用网址：[https://ssrss.gq](https://ssrss.gq)）
 
