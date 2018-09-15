@@ -56,53 +56,37 @@
 网址：www.6park.com/us.shtml
 - 1024 - “学术氛围”很浓的一个社区，俗称草榴社区（那种社区，你懂的~）
 网址：t66y.com/index.php
-
 > 视频类
-
 - Youtube-世界上最大的视频网站：
 网址：www.youtube.com
-
 - Vimeo-高清视频播客网站，里面的视频都很棒：
 网址：vimeo.com
-
 - Vine-急速六秒视频，类似于秒拍和美拍：
 网址：vine.co
 - Hulu-正版影视作品和电视节目视频网站：
 网址：www.hulu.com
-
 > 资源工具类 
-
 - Pexels - Free stock photos，免费高品质图片网站，图片超赞
 网址：www.pexels.com
 - Canva - 简单但又是逼格最高的在线图片设计网站，让你设计出高逼格的图片（让设计师下岗的Canva）
 网址：www.canva.com
-
 - WallHaven - 美如画的高清壁纸搜索引擎
 网址：alpha.wallhaven.cc
-
 - 海盗湾 - 世界最大的BT种子服务器，作品都是盗版的，此网站的口号是：“实现真正的言论和文化传播自由”
 网址：thepiratebay.org
-
 - KickassTorrents - 全球最大的盗版电影、电视剧和音乐分享网站
 网址：kickasstorrentsat.com
-
 > 新闻媒体类 
-
 - Buzzfeed - 媒体行业的颠覆者，史上最奇葩的内容创作者
 网址：www.buzzfeed.com
-
 - The Huffington Post - 赫芬顿邮报，全美最有名的政治博客网站
 网址：www.huffingtonpost.com
-
 - Business Insider - 全美流量最大的商业媒体之一
 网址：www.businessinsider.com
-
 - The Verge - 最受欢迎的科技媒体之一（科技控必备）
 网址：live.theverge.com
-
 - BBC - 英国最大的新闻广播机构（腐国新闻领头羊）
 网址：www.bbc.com
-
 - CNN - 美国有线电视新闻网
 网址：edition.cnn.com
 <h2 id="1">小视频网站（具体有啥特点就不说了，我…我…我真没看过）</h2>
